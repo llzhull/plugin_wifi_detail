@@ -1,7 +1,7 @@
 name: plugin_wifi_detail
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/llzhull/plugin_wifi_detail
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
